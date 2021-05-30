@@ -1,1 +1,1 @@
-# Integration-paeruginosa
+# Integration-peruginosa
