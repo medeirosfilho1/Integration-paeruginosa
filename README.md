@@ -18,5 +18,4 @@ Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br
 
 # Description of supplementary material
 
-[Models](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/models): Here you can find the models used in the simulations performed in this manuscript. They are divided into files with matlab and sbml extensions. The .mat files were used in the session Integration of metabolic network and transcriptome data of the methods. The .sbml files were exported from matlab in order to simulate them in FindTargetsWeb and FBA and FVA analysis.
-
+[Models](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/models): Here you can find the models used in the simulations performed in this manuscript. They are divided into files with matlab and sbml extensions. The .mat files were used in the session **Integration of metabolic network and transcriptome data** and **Dynamics simulations** of the methods. The sbmls files were exported from matlab in order to simulate them in FindTargetsWeb in the **Identification of Potential Therapeutic Targets** methods section
