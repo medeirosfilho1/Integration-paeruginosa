@@ -21,3 +21,8 @@ Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br
 [Models](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/models): Here you can find the models used in the simulations performed in this manuscript. They are divided into files with matlab and sbml extensions. The .mat files were used in the session **Integration of metabolic network and transcriptome data** and **Dynamics simulations** of the methods. The sbmls files were exported from matlab in order to simulate them in FindTargetsWeb in the **Identification of Potential Therapeutic Targets** methods section
 
 [Simulations](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/Simulations): In this folder you will find the results of simulations referring to growth curves using the TRFBA algorithm described in the **Dynamics simulations** section and found in the ACBM results folder. Simulations from the **Identification of Potential Therapeutic Targets** session will be found in the FTW results folder.
+
+[Supplementary 1](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_1.pdf)
+
+[Supplementary 2](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_2.csv)
+
