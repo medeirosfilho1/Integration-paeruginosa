@@ -1,7 +1,7 @@
 # Integrated Model of *Pseudomonas aeruginosa*
 
 This repository provides supplementary material of the manuscript: **A systematic strategy to find potential therapeutic targets for *Pseudomonas aeruginosa* using integrated computational models.*** 
-##### Authos: Medeiros Filho1†\*, Nascimento1†, Merigueti1, Costa3, Menezes4, Nicolás3, Santos3, Carvalho-Assef2, Silva1\*
+##### Authos: Medeiros Filho1†\*, Nascimento1†, Costa3, Merigueti1, Menezes4, Nicolás3, Santos3, Carvalho-Assef2, Silva1\*
 
 ######  1 Fundação Oswaldo Cruz, Programa de Computação Científica, Rio de Janeiro, RJ, Brazil; 2 Fundação Oswaldo Cruz, Instituto Oswaldo Cruz, Laboratório de Pesquisa em Infecção Hospitalar, Rio de Janeiro, RJ, Brasil; 3 Laboratório Nacional de Computação Científica, Petrópolis, RJ, Brazil; 4 Instituto de Física, Universidade Federal Fluminense, Niterói, RJ, Brazil; † These authors have contributed equally to this work and share first authorship; \* Correspondence authors
 
