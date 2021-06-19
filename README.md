@@ -20,7 +20,7 @@ Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br
 
 [Supplementary Table 1](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_1.xlsx): Parameters given as input for ACBM framework in the **Dynamics simulations** section.
 
-[Supplementary Table 2](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_2.xlsx): List containing the the 454 gastrointestinal tract organisms from the NIH Human Microbiome Project mentioned in the **Identification of Potential Therapeutic Targets** subsection of Materials and Methos section.
+[Supplementary Table 2](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_2.xlsx): List containing the 454 gastrointestinal tract organisms from the NIH Human Microbiome Project mentioned in the **Identification of Potential Therapeutic Targets** subsection of Materials and Methos section.
 
 [Supplementary Table 3](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_3.xlsx): List of acetate and glycerol central metabolism reactions in P. aeruginosa PAO1 and their flux distribution mentioned in the **Flux Balance and Variability Analysis** subsection of Materials and Methods section.
 
