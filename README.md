@@ -11,7 +11,7 @@ Keywords: *Pseudomonas aeruginosa*, Metabolic  Network, Transcriptome  Data, Int
 
 Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br 
 
-# Description of the Supplementary Materials
+# Description of the Supplementary Material
 
 [Models](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/models): Here you can find the models used in the simulations performed in this manuscript. They are divided into matlab and sbml files. The .mat files were used in the **Integration of metabolic network and transcriptome data** and **Dynamics simulations** subsections of Materials and Methods section. The sbmls files were exported from matlab in order to simulate them in FindTargetsWeb in the **Identification of Potential Therapeutic Targets** methods section
 
