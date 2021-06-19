@@ -17,7 +17,7 @@ Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br
 
 [Simulations](https://github.com/medeirosfilho1/Integration-paeruginosa/tree/main/Simulations): In this folder you will find the results of growth simulations using the ACBM framework described in the **Dynamics simulations** subsection and found in the ACBM results folder. Simulations from the **Identification of Potential Therapeutic Targets** subsection will be found in the FTW results folder.
 
-[Supplementary Table 1](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_1.xlsx): Parameters of the dynamic simulations in the **Dynamics simulations section**.
+[Supplementary Table 1](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_1.xlsx): Parameters given as input for ACBM framework in the **Dynamics simulations** section.
 
 [Supplementary Table 2](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_2.xlsx): List containing the the 457 gastrointestinal tract organisms from the NIH Human Microbiome Project mentioned in the **Identification of Potential Therapeutic Targets** subsection of Materials and Methos section.
 
