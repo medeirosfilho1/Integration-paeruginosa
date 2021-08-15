@@ -24,4 +24,4 @@ Correspondence: fernando.filho@ioc.fiocruz.br, fabricio.silva@fiocruz.br
 
 [Supplementary Table 3](https://github.com/medeirosfilho1/Integration-paeruginosa/blob/main/Supplementary_table_3.xlsx): List of acetate and glycerol central metabolism reactions in P. aeruginosa PAO1 and their flux distribution mentioned in the **Flux Balance and Variability Analysis** subsection of Materials and Methods section.
 
-TRFBA source codes used for data and models integration are available in the TRFBA's authors repository. To access it [click here](http://sbme.modares.ac.ir/trfba-2/).
+The linear form of TRFBA source code are available under request in the authors repository. To access it [click here](http://sbme.modares.ac.ir/trfba-2/).
